@@ -1,0 +1,11 @@
+click==7.1.2
+fastapi==0.62.0
+h11==0.11.0
+pydantic==1.7.3
+starlette==0.13.6
+uvicorn==0.13.0
+facebook-page-scraper
+pyopenssl==22.0.0
+cryptography==38.0.4
+psycopg2-binary==2.9.3
+pytest==7.2.1
